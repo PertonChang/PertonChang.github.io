@@ -1,6 +1,7 @@
 # pertonchang.github.io   PertonChang Github Pages
 
 # XinJiuYueZongLan 新舊約縱覽-大衛鮑森牧師
+資料來源：http://www.q5help.me/ReadBible/DavidPawsonOldTestament
 
 [01舊約概論](http://pertonchang.github.io/新舊約縱覽/01舊約概論.html)<br>
 [02創世記(一)聖經的基礎](http://pertonchang.github.io/新舊約縱覽/02創世記(一)聖經的基礎.html)<br>
