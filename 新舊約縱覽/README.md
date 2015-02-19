@@ -3,7 +3,7 @@
 # XinJiuYueZongLan 新舊約縱覽-大衛鮑森牧師
 
 [01舊約概論](http://pertonchang.github.io/新舊約縱覽/01舊約概論.html)<br>
-02創世記(一)聖經的基礎<br>
+[02創世記(一)聖經的基礎](http://pertonchang.github.io/新舊約縱覽/02創世記(一)聖經的基礎.html)<br>
 03創世記(二)造物主和受造物<br>
 04創世記(三)生物與進化<br>
 05創世記(四)從伊甸園到巴別塔<br>
