@@ -1,7 +1,7 @@
 # pertonchang.github.io   PertonChang Github Pages
 
 # XinJiuYueZongLan 新舊約縱覽-大衛鮑森牧師
-資料來源：http://www.q5help.me/ReadBible/DavidPawsonOldTestament
+資料來源：http://www.q5help.me/ReadBible/DavidPawsonOldTestament<br>
 
 [01舊約概論](http://pertonchang.github.io/新舊約縱覽/01舊約概論.html)<br>
 [02創世記(一)聖經的基礎](http://pertonchang.github.io/新舊約縱覽/02創世記(一)聖經的基礎.html)<br>
@@ -63,3 +63,44 @@
 [58撒迦利亞書(二)](http://pertonchang.github.io/新舊約縱覽/58撒迦利亞書(二).html)<br>
 [59瑪拉基書(一)](http://pertonchang.github.io/新舊約縱覽/59瑪拉基書(一).html)<br>
 [60瑪拉基書(二)](http://pertonchang.github.io/新舊約縱覽/60瑪拉基書(二).html)<br>
+
+資料來源：http://www.q5help.me/ReadBible/DavidPawsonNewTestament<br>
+
+[61馬太福音(一)](http://pertonchang.github.io/新舊約縱覽/61馬太福音(一).html)<br>
+[62馬太福音(二)](http://pertonchang.github.io/新舊約縱覽/62馬太福音(二).html)<br>
+[63馬可福音](http://pertonchang.github.io/新舊約縱覽/63馬可福音.html)<br>
+[64路加福音](http://pertonchang.github.io/新舊約縱覽/64路加福音.html)<br>
+[65約翰福音(一)](http://pertonchang.github.io/新舊約縱覽/65約翰福音(一).html)<br>
+[66約翰福音(二)](http://pertonchang.github.io/新舊約縱覽/66約翰福音(二).html)<br>
+[67使徒行傳(一)](http://pertonchang.github.io/新舊約縱覽/67使徒行傳(一).html)<br>
+[68使徒行傳(二)](http://pertonchang.github.io/新舊約縱覽/68使徒行傳(二).html)<br>
+[69保羅及保羅書信](http://pertonchang.github.io/新舊約縱覽/69保羅及保羅書信.html)<br>
+[70帖撒羅尼迦前後書(一)](http://pertonchang.github.io/新舊約縱覽/70帖撒羅尼迦前後書(一).html)<br>
+[71帖撒羅尼迦前後書(二)](http://pertonchang.github.io/新舊約縱覽/71帖撒羅尼迦前後書(二).html)<br>
+[72哥林多前後書(一)](http://pertonchang.github.io/新舊約縱覽/72哥林多前後書(一).html)<br>
+[73哥林多前後書(二)](http://pertonchang.github.io/新舊約縱覽/73哥林多前後書(二).html)<br>
+[74加拉太書(一)](http://pertonchang.github.io/新舊約縱覽/74加拉太書(一).html)<br>
+[75加拉太書(二)](http://pertonchang.github.io/新舊約縱覽/75加拉太書(二).html)<br>
+[76羅馬書(一)](http://pertonchang.github.io/新舊約縱覽/76羅馬書(一).html)<br>
+[77羅馬書(二)](http://pertonchang.github.io/新舊約縱覽/77羅馬書(二).html)<br>
+[78歌羅西書](http://pertonchang.github.io/新舊約縱覽/78歌羅西書.html)<br>
+[79以弗所書](http://pertonchang.github.io/新舊約縱覽/79以弗所書.html)<br>
+[80腓立比書 腓利門書(一)](http://pertonchang.github.io/新舊約縱覽/80腓立比書 腓利門書(一).html)<br>
+[81腓立比書 腓利門書(二)](http://pertonchang.github.io/新舊約縱覽/81腓立比書 腓利門書(二).html)<br>
+[82提摩太前後書 提多書(一)](http://pertonchang.github.io/新舊約縱覽/82提摩太前後書 提多書(一).html)<br>
+[83提摩太前後書 提多書(二)](http://pertonchang.github.io/新舊約縱覽/83提摩太前後書 提多書(二).html)<br>
+[84希伯來書(一)](http://pertonchang.github.io/新舊約縱覽/84希伯來書(一).html)<br>
+[85希伯來書(二)](http://pertonchang.github.io/新舊約縱覽/85希伯來書(二).html)<br>
+[86雅各書(一)](http://pertonchang.github.io/新舊約縱覽/86雅各書(一).html)<br>
+[87雅各書(二)](http://pertonchang.github.io/新舊約縱覽/87雅各書(二).html)<br>
+[88彼得前後書(一)](http://pertonchang.github.io/新舊約縱覽/88彼得前後書(一).html)<br>
+[89彼得前後書(二)](http://pertonchang.github.io/新舊約縱覽/89彼得前後書(二).html)<br>
+[90約翰一二三書(一)](http://pertonchang.github.io/新舊約縱覽/90約翰一二三書(一).html)<br>
+[91約翰一二三書(二)](http://pertonchang.github.io/新舊約縱覽/91約翰一二三書(二).html)<br>
+[92猶大書](http://pertonchang.github.io/新舊約縱覽/92猶大書.html)<br>
+[93啟示錄(一)啟示錄之謎](http://pertonchang.github.io/新舊約縱覽/93啟示錄(一)啟示錄之謎.html)<br>
+[94啟示錄(二)升天的主](http://pertonchang.github.io/新舊約縱覽/94啟示錄(二)升天的主.html)<br>
+[95啟示錄(三)大患難](http://pertonchang.github.io/新舊約縱覽/95啟示錄(三)大患難.html)<br>
+[96啟示錄(四)墮落的淫婦](http://pertonchang.github.io/新舊約縱覽/96啟示錄(四)墮落的淫婦.html)<br>
+[97啟示錄(五)最後的千禧年](http://pertonchang.github.io/新舊約縱覽/97啟示錄(五)最後的千禧年.html)<br>
+[98啟示錄(六)從天而降的新婦](http://pertonchang.github.io/新舊約縱覽/98啟示錄(六)從天而降的新婦.html)<br>
